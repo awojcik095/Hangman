@@ -1,0 +1,4 @@
+TABLICA WYNIKOW
+Marcin:3.9
+Robert:4.712
+Adam:19.871
